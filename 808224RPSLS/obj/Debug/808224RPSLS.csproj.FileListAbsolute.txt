@@ -1,0 +1,41 @@
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\808224RPSLS.dll.config
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\808224RPSLS.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\808224RPSLS.pdb
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Antlr3.Runtime.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Newtonsoft.Json.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\System.Web.Optimization.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\WebGrease.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\System.Web.Optimization.xml
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Antlr3.Runtime.pdb
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Newtonsoft.Json.xml
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\obj\Debug\808224RPSLS.dll
+C:\Users\Ifetayo\Documents\#courseware\web dev services\coursework\808224RPSLS\808224RPSLS\obj\Debug\808224RPSLS.pdb
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\808224RPSLS.dll.config
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\808224RPSLS.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\808224RPSLS.pdb
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\AspNet.ScriptManager.jQuery.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\WebGrease.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\obj\Debug\808224RPSLS.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\obj\Debug\808224RPSLS.dll
+C:\inetpub\wwwroot\808224RPSLS\808224RPSLS\obj\Debug\808224RPSLS.pdb
